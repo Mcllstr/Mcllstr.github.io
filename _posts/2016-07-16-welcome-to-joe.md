@@ -6,7 +6,7 @@ categories: jekyll update
 external_url: https://www.google.com
 ---
 This site is under construction - bear with us 
-<iframe src="https://raw.githubusercontent.com/Mcllstr/visualizing-every-flight-route-usa/master/USA_routes_map.html" sandbox="allow-same-origin allow-scripts" width="100%" height="600" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
+<iframe src="https://raw.githubusercontent.com/Mcllstr/visualizing-every-flight-route-usa/master/USA_routes_map.html" sandbox="allow-same-origin allow-scripts" width="1000" height="600" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 
 test
