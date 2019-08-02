@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Visualizing (almost) every flight route in the USA"
-date:   2016-07-16 12:00:00 -0400
+date:   2016-07-30 12:00:00 -0400
 categories: jekyll update
 
 ---
