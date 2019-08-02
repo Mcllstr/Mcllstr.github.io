@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Got any cookies?"
+title:  "Still moving in"
 date:   2016-07-19 12:00:00 -0400
 categories: jekyll update
 ---
-Nom-nom-nom-nom
+We'd offer you a seat but the chairs are still in the truck.  
